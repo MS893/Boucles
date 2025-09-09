@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Boucles" />
+  <img src="./.github/app.gif" alt="Exercices sur les boucles" />
 
   &#xa0;
 
@@ -46,27 +46,24 @@
 
 ## :dart: About ##
 
-Describe your project
+Set of samples using loops. Exercises are located in lib directory.
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: 00_hello.rb = ask the user's firstname and display Hello firstname
+:heavy_check_mark: 01_pyramids = set of 3 exrecises building different pyramids
+:heavy_check_mark: 02_password.rb = the user set his password then the application request it
+:heavy_check_mark: 02_stairways.rb = play the game that allows the user to climb the stairs
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Ruby](https://www.ruby-lang.org/en/)
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) installed.
 
 ## :checkered_flag: Starting ##
 
@@ -91,7 +88,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/MS893" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/MS893" target="_blank">MS893</a>
 
 &#xa0;
 

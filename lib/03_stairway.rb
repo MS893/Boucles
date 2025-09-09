@@ -1,3 +1,5 @@
+# exercice de l'escalier
+
 def lance_dé
     # retourne le résultat du jet du dé
     print "> "

@@ -1,3 +1,5 @@
+# exercice pyramide
+
 def half_pyramid
     puts "Donnez un nombre entre 1 et 25"
     print "> "

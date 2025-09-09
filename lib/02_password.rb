@@ -1,3 +1,5 @@
+# exercice de mot de passe
+
 def signup
   puts "Choisissez un mot de passe"
   print "> "
