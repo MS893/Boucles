@@ -50,9 +50,9 @@ Set of samples using loops. Exercises are located in lib directory.
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: 00_hello.rb = ask the user's firstname and display Hello firstname;
-:heavy_check_mark: 01_pyramids = set of 3 exrecises building different pyramids;
-:heavy_check_mark: 02_password.rb = the user set his password then the application request it;
+:heavy_check_mark: 00_hello.rb = ask the user's firstname and display Hello firstname;/
+:heavy_check_mark: 01_pyramids = set of 3 exrecises building different pyramids;/
+:heavy_check_mark: 02_password.rb = the user set his password then the application request it;/
 :heavy_check_mark: 02_stairways.rb = play the game that allows the user to climb the stairs;
 
 ## :rocket: Technologies ##
